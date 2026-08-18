@@ -1,0 +1,10 @@
+John: Good morning everyone, let's start the meeting. Today we need to discuss the Q3 budget and the new marketing campaign.
+Sarah: Sure. I think we should increase the marketing budget by 15 percent to support the new product launch.
+John: That sounds reasonable. We agreed last week that the launch date is October 15th.
+Mike: I will send the updated budget sheet to everyone by Friday.
+Sarah: Great. Also, we decided that Mike will take care of coordinating with the design team.
+John: One more thing, we need to finalize the vendor contract before the end of this month.
+Mike: I have to follow up with legal on that contract, I'll do it tomorrow.
+Sarah: Sounds good. We approved the final campaign creative in yesterday's review.
+John: Perfect. Let's wrap up. Action item for me: I will schedule the next review meeting for next week.
+Mike: Sounds like a plan. Thanks everyone.
